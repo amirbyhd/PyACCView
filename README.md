@@ -1,5 +1,5 @@
-# ACCPyView
-accounting software with :
+# pyaccview
+software with :
 - Microsoft ACCESS database engine
 - Python 
-- Vuejs (GUI)
+- Vuejs (view)
